@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: lguarise/conversao-temperatura:v1
+          image: rubens14/conversao-temperatura:v1
           ports:
             - containerPort: 8080
 ---
